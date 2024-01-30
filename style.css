@@ -1,0 +1,63 @@
+.gameplay{
+    width: 500px
+}
+
+.banner{
+    width: 1000px;
+    margin-left: 200px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: lightpink;
+}
+
+title{
+    color: maroon;
+}
+
+h1{
+    color: maroon;
+}
+
+h3{
+    color: maroon;
+}
+
+text{
+    color: maroon;
+}
+
+table{
+    border: 1px solid rgb(9, 107, 42);
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+td, th
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+img{
+    border: 5px solid #0c9119;
+  }
+
+  td, th{
+    border: 1px solid #08692b;
+    text-align: left;
+    padding: 8px;
+    color: rgb(24, 7, 121);
+  }
+
+  p{
+    color: rgb(24, 7, 121);
+}
+
+audio{
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 20px;
+}
